@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TheMrCheeky
 - 👀 I’m interested in modpack making but learning whatever is enjoyable to do!
 - 🌱 I’m currently learning everyday :D some more than others!
-- 💞️ I’m looking to collaborate on anything really. I don't  know code but I always have ideas!
+- 💞️ I’m looking to collaborate on anything really. I don't know code well but I always have ideas!
 
 <!---
 TheMrCheeky/TheMrCheeky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
